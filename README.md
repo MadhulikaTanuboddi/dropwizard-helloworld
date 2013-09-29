@@ -1,6 +1,7 @@
 dropwizard-helloworld
 =====================
 Madhulika: This is to test the call back from GitHub server in the log - sep 28/2013
+TESTING
 $ mvn clean package
 
 $ bin/run.sh 
